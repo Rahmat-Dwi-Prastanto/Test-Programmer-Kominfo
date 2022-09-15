@@ -1,0 +1,4 @@
+package albums
+
+class java {
+}
